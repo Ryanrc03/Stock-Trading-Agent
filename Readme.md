@@ -2,11 +2,13 @@
 
 ## Project Overview
 This project focuses on applying AI techniques to enhance quantitative trading (QT) in finance, specifically through Deep Reinforcement Learning (DRL).
+
 ![background](dl.png)
 
 ### Objectives
 - Automate market condition recognition and optimal trading strategy execution.
 - Apply DRL algorithms, like Deep Deterministic Policy Gradient (DDPG), for prediction and trading.
+  
 ![environment](problem.png)
 
 
