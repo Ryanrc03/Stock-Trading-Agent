@@ -1,4 +1,4 @@
-# FD2: Financial AI Agent, DDPG-based Deep Reinforcement Learning Stock Trading Agent
+# FAD2: Financial AI Agent, DDPG-based Deep Reinforcement Learning Stock Trading Agent
 
 ## Project Overview
 This project focuses on applying AI techniques to enhance quantitative trading (QT) in finance, specifically through Deep Reinforcement Learning (DRL).
