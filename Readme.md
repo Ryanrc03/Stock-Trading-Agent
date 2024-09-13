@@ -7,14 +7,14 @@ This project focuses on applying AI techniques to enhance quantitative trading (
 ### Objectives
 - Automate market condition recognition and optimal trading strategy execution.
 - Apply DRL algorithms, like Deep Deterministic Policy Gradient (DDPG), for prediction and trading.
-[environment](problem.png)
+![environment](problem.png)
 
 
 ### Methodology
 - Integrated DDPG into the FinRL architecture.
 - Conducted model training using DOW30 stock data on Colab.
-- Achieved a 10% annual return.
-[Policy Gradient](pg.png)
+  
+![Policy Gradient](pg.png)
 
 ### Challenges and Future Work
 - Identified areas for performance improvement and stability.
